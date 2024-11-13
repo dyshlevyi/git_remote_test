@@ -87,7 +87,7 @@
   },
   "schema": {
     "columns": [
-      {"name":"PassengerId","type":"bigint"},
+      {"name":"Passenger_id","type":"bigint"},
       {"name":"Name","type":"string"},
       {"name":"Sex","type":"string"},
       {"name":"Age","type":"double"},
